@@ -45,3 +45,5 @@ console.log(`fancy password generated is ${fancyPassword}`);
 const fancy_password_h1 = document.getElementById('fancy_password');
 
 fancy_password_h1.innerText = `${fancyPassword}`
+
+//finished
