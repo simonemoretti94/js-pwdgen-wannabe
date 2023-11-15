@@ -53,3 +53,13 @@ tr td:last-of-type {
     background-color: rgb(255, 216, 216);
     color: blue;
 }
+
+h1 {
+    margin: 2rem auto auto auto;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(34, 34, 34);
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
