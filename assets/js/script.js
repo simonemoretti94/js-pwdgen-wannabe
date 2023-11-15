@@ -38,7 +38,7 @@ colore.innerText = `${user_favcol}`;
 
 // password generation
 
-let fancyPassword = `${nome_utente}` + `${cognome_utente}` + `${user_favcol}`;
+let fancyPassword = `${nome_utente}` + `${cognome_utente}` + `${user_favcol}` + '23';
 
 console.log(`fancy password generated is ${fancyPassword}`);
 
