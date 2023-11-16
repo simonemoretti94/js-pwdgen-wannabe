@@ -24,7 +24,7 @@ console.log(`just found ${cognome} td2`);
 
 cognome.innerText = `${cognome_utente}`;
 
-// prefered colour
+// preferred colour
 
 let user_favcol = prompt('Sorry for this, just one last effort, please write below your favourite colour :) ');
 

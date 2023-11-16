@@ -6,8 +6,14 @@
     box-sizing: border-box;
 }
 
+body {
+    min-width: 320px;
+}
+
 header {
     background-color: rgb(191, 59, 59);
+    width: 100vw;
+
 }
 
 .row {
